@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The JerseyBanking App is a JavaFX-based desktop application designed to simulate basic banking operations. It allows users to manage customer accounts, including opening new accounts, performing transactions like deposits and withdrawals, closing accounts, and viewing account information. The application features a tabbed interface for easy navigation between different functionalities.
+The JerseyBanking App is a co-developed JavaFX-based desktop application designed to simulate basic banking operations. It allows users to manage customer accounts, including opening new accounts, performing transactions like deposits and withdrawals, closing accounts, and viewing account information. The application features a tabbed interface for easy navigation between different functionalities.
 
 ## Features
 
@@ -88,5 +88,3 @@ To run this project, you will need:
 *   Unit tests for business logic.
 
 ---
-
-*This README provides a general outline. Feel free to expand on specific sections, especially regarding the business logic classes and detailed functionality.*
